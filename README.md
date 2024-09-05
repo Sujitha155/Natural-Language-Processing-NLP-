@@ -12,15 +12,18 @@ To run this project locally, follow these steps:
 
 # Prerequisites
 You need Python 3 installed on your system along with the following Python packages:
+
 • nltk
 • spacy
 # Installation
+
 1.Clone the repository or copy the script into your local environment.
 2.Install the required libraries:
   pip install nltk spacy
 3.Download the necessary NLTK and SpaCy models:
   python -m spacy download en_core_web_sm
 4.In your Python script, import NLTK and download the movie_reviews corpus:
+
   import nltk
   nltk.download('movie_reviews')
 
