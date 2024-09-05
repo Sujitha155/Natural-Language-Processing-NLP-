@@ -42,7 +42,9 @@ You need Python 3 installed on your system along with the following Python packa
 After installing the dependencies and downloading the necessary data, you can run the code by executing the script. The script will:
 
 1.Load and preprocess the first movie review from the movie_reviews dataset.
+
 2.Tokenize the text, removing punctuation, stop words, and whitespace.
+
 3.Print the original text and the preprocessed tokens.
 
 
