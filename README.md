@@ -25,6 +25,7 @@ You need Python 3 installed on your system along with the following Python packa
 4.In your Python script, import NLTK and download the movie_reviews corpus:
 
   import nltk
+  
   nltk.download('movie_reviews')
 
 # Running the Code
